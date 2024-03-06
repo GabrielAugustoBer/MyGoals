@@ -25,6 +25,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
+## ✍️ Projeto
+O projeto consiste em um gerenciamento de metas financeiras pessoais, podendo definir um objetivo/valor para cada meta da vida.
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1347192396666271913). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
