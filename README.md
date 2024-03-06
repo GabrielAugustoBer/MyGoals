@@ -31,7 +31,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 📱 Preview
 <h1 align="center">
-  <img width="100%" alt="Banner" title="App" src=".github/app.pn" />
+  <img width="100%" alt="Banner" title="App" src=".github/app.png" />
 </h1>
 
 ## :memo: Licença
